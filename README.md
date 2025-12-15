@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvshingade-code&label=Profile%20views&color=0e75b6&style=flat" alt="atharvshingade-code" /> </p>
 
-<p align="left"> <a href="https://twitter.com/asad" target="blank"><img src="https://img.shields.io/twitter/follow/asad?logo=twitter&style=for-the-badge" alt="asad" /></a> </p>
+<p align="left"> <a href="https://x.com/CodeWithAtharv" target="blank"><img src="https://img.shields.io/twitter/follow/asad?logo=twitter&style=for-the-badge" alt="asad" /></a> </p>
 
 - 🔭 I’m currently working on **AI Multi-Vendor E-Commerce App using Next js**
 
